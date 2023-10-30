@@ -27,12 +27,16 @@ body {
 
 }
 .fosko {
-   color: rgb(0, 195, 255);
+   color: rgb(2, 0, 122);
     font-style: italic
 }
 .lista {
         display: inline-block;
         padding: 5%;
         margin-right: 25%;
-        color: rgb(0, 140, 255);
+        color: rgb(2, 0, 122);
+    }
+    nav a:hover{  
+        color: darkblue;
+        text-decoration: underline0, 140, 255;
     }
